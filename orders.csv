@@ -1,0 +1,6 @@
+OrderID,CustomerID,ProductCategory,Quantity,Amount,OrderDate
+1001,501,Electronics,2,500,2026-05-01
+1002,502,Furniture,1,700,2026-05-02
+1003,503,Clothing,4,100,2026-05-03
+1004,504,Books,3,50,2026-05-04
+1005,505,Electronics,1,1200,2026-05-05
