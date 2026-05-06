@@ -89,7 +89,7 @@ airflow-s3-gcs-bigquery-etl/
 
 ---
 
-## Interview Explanation
+##  Explanation
 
 This DAG demonstrates a common enterprise ETL pattern where data is copied from AWS S3 into Google Cloud Storage and then loaded into BigQuery.
 
